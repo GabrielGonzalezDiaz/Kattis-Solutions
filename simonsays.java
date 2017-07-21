@@ -20,6 +20,8 @@ public class simonsays {
              }
          }
          
+         scan.close();
+         
          
 
     }
