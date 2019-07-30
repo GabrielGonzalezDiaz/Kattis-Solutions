@@ -1,2 +1,2 @@
 # Kattis-Solutions
-Do not steal my Solutions, use them to learn
+Do not steal my solutions, use them to learn
